@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pertemuan3</string>
+    <string name="deskription_menu">deskription_menu</string>
+    <string name="ingredients">ingredients</string>
+    <string name="Resep">Resep</string>
+    <string name="price">price</string>
+    <string name="Harga_Cenil">Harga_Cenil</string>
+    <string name="Harga_Klepon">5.000</string>
+</resources>
